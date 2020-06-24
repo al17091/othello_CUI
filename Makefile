@@ -3,7 +3,7 @@ CC  = gcc
 # compile option
 CFLAGS = -Wall -O2 -Werror -g3
 # execute file
-TARGET  = bin/lru
+TARGET  = bin/othello
 # source
 SRCS    = *.c
 HEADER = *.h

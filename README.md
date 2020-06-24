@@ -7,7 +7,7 @@ decide the position where you put the stones by them
 and progress through the game.   
 
 ## Compile
-'''make'''
+```make```
 
 ## Run
-'''bin/othello'''
+```bin/othello```
